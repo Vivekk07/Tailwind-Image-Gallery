@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/tailwind-css-image-gallery/static/css/main.7659003a.chunk.css",
+    "main.js": "/tailwind-css-image-gallery/static/js/main.b6b8895b.chunk.js",
+    "main.js.map": "/tailwind-css-image-gallery/static/js/main.b6b8895b.chunk.js.map",
+    "runtime-main.js": "/tailwind-css-image-gallery/static/js/runtime-main.96ed41a3.js",
+    "runtime-main.js.map": "/tailwind-css-image-gallery/static/js/runtime-main.96ed41a3.js.map",
+    "static/js/2.5199b08f.chunk.js": "/tailwind-css-image-gallery/static/js/2.5199b08f.chunk.js",
+    "static/js/2.5199b08f.chunk.js.map": "/tailwind-css-image-gallery/static/js/2.5199b08f.chunk.js.map",
+    "index.html": "/tailwind-css-image-gallery/index.html",
+    "static/css/main.7659003a.chunk.css.map": "/tailwind-css-image-gallery/static/css/main.7659003a.chunk.css.map",
+    "static/js/2.5199b08f.chunk.js.LICENSE.txt": "/tailwind-css-image-gallery/static/js/2.5199b08f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.96ed41a3.js",
+    "static/js/2.5199b08f.chunk.js",
+    "static/css/main.7659003a.chunk.css",
+    "static/js/main.b6b8895b.chunk.js"
+  ]
+}
